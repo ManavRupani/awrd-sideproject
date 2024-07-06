@@ -7,7 +7,7 @@ function Feature() {
     <section className="feature-section">
         <div className="feature-row-layout">
             <h6>green</h6>
-            <img src={firstUrl}/>
+            <img src={firstUrl} alt=''/>
         </div>
         <div className="feature-column-layout">
             <h6>lily</h6>
